@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Magic Notes</string>
+    <string name="title_asc">Title ↑</string>
+    <string name="title_desc">Title ↓</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">edit</string>
+    <string name="title_require">Title require</string>
+    <string name="note_reuire">Note require</string>
+    <string name="created">Created: %1$s</string>
+    <string name="updated">Updated: %1$s</string>
+    <string name="hac_pic">Has Image</string>
+</resources>

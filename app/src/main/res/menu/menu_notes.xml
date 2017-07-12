@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="notes.magic.app.magiclanenotes.NotesActivity">
+    <item
+        android:id="@+id/titleASC"
+        android:orderInCategory="100"
+        android:title="@string/title_asc"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/titleDESC"
+        android:orderInCategory="100"
+        android:title="@string/title_desc"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/hasPic"
+        android:orderInCategory="100"
+        android:title="@string/hac_pic"
+        app:showAsAction="never" />
+</menu>
